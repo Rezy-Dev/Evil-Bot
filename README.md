@@ -77,7 +77,7 @@ This bot was initially created by me for the WeShieldCyber CTF Event qualifiers,
 
 ## Invited?!
 Since you invited the bot, read the following article from the author about `eval()` function used in discord bots which causes Remote Code Execution:
-- https://rezydev.xyz/
+- https://rezydev.xyz/research/learn-how-eval-function-is-evil-for-discord-bots/
 
 ---
 
